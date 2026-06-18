@@ -1,0 +1,3 @@
+Packet veriantlari 
+
+Pacet: days_in madina , days_in_kaba , hotel_naame , phone_number_git.
